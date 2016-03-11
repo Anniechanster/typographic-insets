@@ -109,6 +109,10 @@ figure {
   padding: .5rem 0rem .5rem 0rem
 }
 
+figcaption {
+  font-style: italic;
+}
+
 blockquote {
   float: left;
   font-size: 1.5rem;
